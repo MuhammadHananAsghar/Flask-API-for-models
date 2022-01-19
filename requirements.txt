@@ -1,0 +1,8 @@
+numpy==1.19.5
+keras
+tensorflow-cpu
+h5py
+pillow
+flask
+gunicorn
+flask_cors
